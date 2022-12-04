@@ -1,4 +1,4 @@
-[![MasterHead](https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)]
+<!-- [![MasterHead] height="200"(https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)] -->
 <h1 align="center">Hi 👋, I'm Al Noman Mahib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img
